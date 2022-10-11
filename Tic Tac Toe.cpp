@@ -19,7 +19,6 @@ char AIMove(char**);
 
 int main()
 {
-	system("Color 0A");
 	int choice = 0;	
 	char** gameMatrix = NULL;
 	while (choice != 3){
